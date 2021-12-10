@@ -1,0 +1,44 @@
+﻿<head>
+    <p id='title'>Présentation de Culture</p>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+  <div id='FamSem1'>
+    <h1 class='SubTitle Caps'>La Famille et la communauté</h1>
+    <br>
+    <h2 class='heading'>Notre Opinion:</h2>
+    <p class='explanation' id="NoIndent">Nous pensons qu'il y a plus d'égalité entre les hommes et les femmes qu'il y a 100 ans.</p>
+    <br>
+    <h2 class='heading'>Le Passé:</h2>
+    <p class='explanation'> Les roies avaient toujours plus de pouvoir que les femmes. Les femmes étaient réconu commes des utiles qui se soignaient des enfants. Il n'y avait pas beaucoup de femmes qui ont fait une formation scolaire.</p>
+    <br>
+    <h2 class='heading'>Maintentant</h2>
+    <p class='explanation'>text</p>
+    <br>
+    <h2 class='heading'>Differences</h2>
+    <p class='explanation'>text</p>
+  </div>
+  <div class='SecBr'>
+    <p class='Black'> </p>
+    <br>
+    <p class='Black'> </p>
+  </div>
+  <div id='EdSem2'>
+    <h1 class='SubTitle Caps'>l'Éducation</h1>
+    <br>
+    <h2 class='heading'>Notre Opinion</h2>
+    <p class='explanation' id='NoIndent'>text</p>
+    <br>
+    <h2 class='heading'>Le Passé:</h2>
+    <p class='explanation'>text</p>
+    <br>
+    <h2 class='heading'>Maintentant</h2>
+    <p class='explanation'>text</p>
+    <br>
+    <h2 class='heading'>Differences</h2>
+    <p class='explanation'>text</p>
+  </div>
+</body>
+<a href='code.html' class='hover-red credits'>2021 © Niko Wolf & Reuben Richards</a>
