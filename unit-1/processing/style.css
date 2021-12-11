@@ -1,0 +1,77 @@
+﻿* {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+#title {
+    color: #d0d0d0;
+    height: 319.68px;
+    text-align: center;
+    background-image: linear-gradient(#00000088, #00000088), url('../images/title.jpg');
+    font-size: 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.heading {
+    text-align: center;
+}
+
+
+
+
+.explanation {
+    font-size: 20px;
+    margin-right: 4in;
+    margin-left: 4in;
+    padding-bottom: 3px;
+    border-bottom: 2px lightslategray solid;
+    text-indent: 50px;
+}
+
+
+
+
+.credits {
+    position: fixed;
+    bottom: 1;
+    right: 3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    background-color: transparent;
+    color: lightslategray;
+    text-decoration: underline transparent;
+}
+
+
+.hover-red:hover {
+  color: firebrick;
+}
+
+
+.Caps {
+    text-transform: capitalize;
+}
+
+
+.SubTitle {
+    text-align: center;
+    text-decoration: underline white;
+}
+
+
+.SecBr {
+    background-color: darkslategray;
+}
+
+
+.Black {
+    color: black;
+}
+
+
+#NoIndent {
+    text-indent: 0px;
+}
