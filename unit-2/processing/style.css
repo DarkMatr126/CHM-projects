@@ -1,0 +1,253 @@
+@font-face {
+    font-family: medieval;
+    src: url("../fonts/font.ttf");
+}
+
+::selection {
+    background-color: #00ff0088;
+    color: #222222;
+}
+
+* {
+    background-color: #cc9955;
+    margin: 0px;
+    overflow: hidden;
+    font-family: medieval;
+}
+
+.disNon {
+    display: none;
+}
+
+.transparent {
+    background-color: transparent;
+}
+
+.underline {
+    text-decoration: underline black;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.center {
+    text-align: center;
+}
+
+#timeline {
+    position: absolute;
+    height: 0.5in;
+    width: 30in;
+    background-image: linear-gradient(#ddaa66 , #884400);
+    border-top: 2px solid #444444;
+    border-bottom: 2px solid #444444;
+    left: 0px;
+    bottom: 4in;
+}
+
+/* Arrows */
+#ArwL {
+    position: absolute;
+    bottom: 10px;
+    left: 5.5in;
+}
+
+#ArwR {
+    position: absolute;
+    bottom: 10px;
+    right: 5.5in;
+}
+
+/* Dates */
+#date1 {
+    position: absolute;
+    left: 1.4in;
+    bottom: 4.18in;
+}
+
+#date2 {
+    position: absolute;
+    left: 4.2in;
+    bottom: 4.18in;
+}
+
+#date3 {
+    position: absolute;
+    left: 6.6in;
+    bottom: 4.18in;
+}
+
+#date4 {
+    position: absolute;
+    left: 9.1in;
+    bottom: 4.18in;
+}
+
+#date5 {
+    position: absolute;
+    left: 11.5in;
+    bottom: 4.18in;
+}
+
+/* Label 1 */
+#stk1 {
+    position: absolute;
+    border: 0.5px solid black;
+    height: 0.5in;
+    width: 0in;
+    left: 2.04in;
+    bottom: 4.54in;
+}
+
+#txt1 {
+    position: absolute;
+    height: 2in;
+    width: 4in;
+    background-color: #ddaa66;
+    border: 1px solid black;
+    bottom: 5.04in;
+    left: 0.04in;
+    padding: 1px;
+}
+
+/* Label 2 */
+#stk2 {
+    position: absolute;
+    border: 0.5px solid black;
+    height: 0.5in;
+    width: 0in;
+    left: 4.54in;
+    bottom: 3.48in;
+}
+
+#txt2 {
+    position: absolute;
+    height: 2in;
+    width: 4in;
+    background-color: #ddaa66;
+    border: 1px solid black;
+    bottom: 1.48in;
+    left: 2.54in;
+    padding: 1px;
+}
+
+/* Label 3 */
+#stk3 {
+    position: absolute;
+    border: 0.5px solid black;
+    height: 0.5in;
+    width: 0in;
+    left: 7.04in;
+    bottom: 4.54in;
+}
+
+#txt3 {
+    position: absolute;
+    height: 2in;
+    width: 4in;
+    background-color: #ddaa66;
+    border: 1px solid black;
+    bottom: 5.04in;
+    left: 5.04in;
+    padding: 1px;
+}
+
+/* Label 4 */
+#stk4 {
+    position: absolute;
+    border: 0.5px solid black;
+    height: 0.5in;
+    width: 0in;
+    left: 9.54in;
+    bottom: 3.48in;
+}
+
+#txt4 {
+    position: absolute;
+    height: 2in;
+    width: 4in;
+    background-color: #ddaa66;
+    border: 1px solid black;
+    bottom: 1.48in;
+    left: 7.54in;
+    padding: 1px;
+}
+
+/* Label 5 */
+#stk5 {
+    position: absolute;
+    border: 0.5px solid black;
+    height: 0.5in;
+    width: 0in;
+    left: 12.04in;
+    bottom: 4.54in;
+}
+
+#txt5 {
+    position: absolute;
+    height: 2in;
+    width: 4in;
+    background-color: #ddaa66;
+    border: 1px solid black;
+    bottom: 5.04in;
+    left: 10.04in;
+    padding: 1px;
+}
+
+#nextBtn {
+    position: absolute;
+    bottom: 15px;
+    right: 1in;
+    background-color: #558855;
+    height: 50px;
+    font-size: 20px;
+}
+
+/* Tabel */
+table {
+    margin: 0;
+}
+
+td {
+    border: 2px solid black;
+    width: 4in;
+    height: 30px;
+    background-color: #888888;
+    border-radius: 5px;
+    vertical-align: top;
+    font-size: 25px;
+}
+
+#crnrTbl {
+    border: transparent;
+    background: transparent;
+}
+
+#culture1 {
+    background-color: #008800;
+}
+
+#culture1-2 {
+    background-color: #888800;
+}
+
+#culture2 {
+    background-color: #880000;
+}
+
+#culture1-3 {
+    background-color: #008888;
+}
+
+#culture3 {
+    background-color: #000088;
+}
+
+#culture2-3 {
+    background-color: #880088;
+}
+
+#tous {
+    width: 12.15in;
+}
